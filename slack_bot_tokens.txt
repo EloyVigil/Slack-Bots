@@ -1,6 +1,0 @@
-Slack Bot User OAuth Token For Workspace
-
-xoxb-5550611285730-5550760125938-JMgq6qu7u2Rl5ChEKuoGs7Bs
-
-
-in your code change os.environ['SLACK_TOKEN'] toe os.environ.get('SLACK_TOKEN')
